@@ -1,0 +1,4 @@
+# Create file
+service:
+  type: LoadBalancer
+  port: 8080 # testing change
